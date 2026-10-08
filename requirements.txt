@@ -1,7 +1,0 @@
-streamlit
-folium
-streamlit-folium
-geopy
-ortools
-pandas
-openpyxl
